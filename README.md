@@ -49,7 +49,7 @@ https://enews.alumni.cuhk.edu.hk/zh-hk
 - Programming Language
   - PHP
 
-## OSH Products & Services Suppliers Directory (2019)
+## OSH Products & Services Suppliers Directory (2020)
 
 A website to list the content of the directory.
 
