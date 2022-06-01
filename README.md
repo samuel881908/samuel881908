@@ -51,7 +51,7 @@ https://enews.alumni.cuhk.edu.hk/zh-hk
 
 ## OSH Products & Services Suppliers Directory
 
-A website to introduce the company.
+A website to list the content of the directory.
 
 http://www.safetydirectory.hk/
 
