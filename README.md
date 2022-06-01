@@ -37,7 +37,7 @@ https://www3.ha.org.hk/ehaslink/issue116/en
 
 ## CUHK Alumni Matters (2020)
 
-A website with backend and EDM generator to display the monthly e-news.
+A website with backend, CMS and EDM generator to display the monthly e-news.
 
 https://enews.alumni.cuhk.edu.hk/zh-hk
 
