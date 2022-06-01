@@ -37,7 +37,7 @@ https://www3.ha.org.hk/ehaslink/issue116/en
 
 A website with backend and EDM generator to display the monthly e-news.
 
-http://enews.alumni.cuhk.edu.hk/zh-hk
+https://enews.alumni.cuhk.edu.hk/zh-hk
 
 **Techonology Used**
 - Javascript frameworks
@@ -48,6 +48,16 @@ http://enews.alumni.cuhk.edu.hk/zh-hk
   - Apache
 - Programming Language
   - PHP
+
+## OSH Products & Services Suppliers Directory
+
+A website to introduce the company.
+
+http://www.safetydirectory.hk/
+
+**Techonology Used**
+- Javascript frameworks
+  - jQuery
 
 ## Art in MTR
 
