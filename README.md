@@ -22,6 +22,10 @@ https://www.gentlekids.com.hk
   - Apache
 - Programming Language
   - Node.js
+- API Server Frameworks
+  - Laravel
+- API Server Language
+  - PHP
 
 ## HASLink (2020 - 2021)
 
@@ -30,7 +34,7 @@ A Website to display montly issue for HAS.
 https://www3.ha.org.hk/ehaslink/issue116/en
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - Vue.js
 - HTML Language
   - Pug
@@ -42,9 +46,9 @@ A website with backend, CMS and EDM generator to display the monthly e-news.
 https://enews.alumni.cuhk.edu.hk/zh-hk
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
-- PHP frameworks
+- PHP Frameworks
   - Laravel
 - Web Server
   - Apache
@@ -58,7 +62,7 @@ A website to list the content of the directory.
 http://www.safetydirectory.hk/
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 
 ## Siukee (2019)
@@ -68,7 +72,7 @@ A website to introduce the company.
 http://www.siukee.hk/project.html
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 - Web Server
   - Apache
@@ -90,7 +94,7 @@ https://events.hkstp.org/events/2019/career_expo
 https://events.hkstp.org/events/2019/angel2019
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 
 ## 28 Dental Lab (2018)
@@ -100,7 +104,7 @@ A website to introduce the company.
 http://www.28dentallab.com.hk
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 
 ## Art in MTR (2018)
@@ -110,7 +114,7 @@ A website to introduction the art in MTR stations.
 http://www.artinmtr.com.hk
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 - Web Server
   - Apache
@@ -122,7 +126,7 @@ A website to introduce the company.
 http://www.esacom.digital
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 - Web Server
   - Apache
@@ -134,7 +138,7 @@ A website to introduce the company.
 https://www.esalogistics.hk
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 - Web Server
   - Apache
@@ -150,7 +154,7 @@ A website with shopping cart function.
 https://www.talkbo.com
 
 **Techonology Used**
-- Javascript frameworks
+- Javascript Frameworks
   - jQuery
 - Ecommerce
   - OpenCart
