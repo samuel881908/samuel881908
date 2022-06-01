@@ -12,6 +12,8 @@ https://www.gentlekids.com.hk
   - Nuxt.js
 - Payment Processors
   - Stripe
+  - Tap&Go
+  - Octopus
 - Authentication
   - Facebook Login
   - Apple Sign-In
