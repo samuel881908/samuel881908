@@ -6,7 +6,7 @@ A website with member system to introduce the company and the mobile app.
 
 https://www.gentlekids.com.hk
 
-**Techonology Used**
+**Techonology Used in Web**
 - Javascript frameworks
   - Vue.js
   - Nuxt.js
@@ -26,6 +26,15 @@ https://www.gentlekids.com.hk
   - Laravel
 - API Server Language
   - PHP
+
+**Techonology Used in App**
+- IDE
+  - XCode
+  - Android Studio
+- Programming Language
+  - Java
+  - Kotlin
+  - Swift
 
 ## HASLink (2020 - 2021)
 
