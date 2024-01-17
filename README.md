@@ -19,13 +19,13 @@ https://www.gentlekids.com.hk
   - Apple Sign-In
   - Google Sign-In
 - Web Server
-  - Apache
-- Programming Language
   - Node.js
 - API Server Frameworks
   - Laravel
 - API Server Language
   - PHP
+- Programming Language
+  - Javascript
 
 **Techonology Used in App**
 - IDE
